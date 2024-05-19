@@ -5,17 +5,15 @@
 <img align="right" alt="Coding with Cakin" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
 
 
-- 🔭 I’m currently working on [1880 Video Project](https://github.com/rider0211/1880_video_backend)
+- 🔭 I’m currently working on [1880 Video Project](https://github.com/enigmaticsoul216/1880_video_backend)
 
-- 🔭 I’m currently working on [Auto Email Service](https://github.com/rider0211/OtisEmailService)
+- 🔭 I’m currently working on [Auto Email Service](https://github.com/enigmaticsoul216/OtisEmailService)
 
 - 🌱 I’m currently learning **Advanced Blockchain & AI.**
 
-- 👨‍💻 All of my projects are available at [https://rider0211.web.app/](https://rider0211.web.app/)
-
 - 💬 Ask me about **React & Javascript.**
 
-- 📫 How to reach me **codemaster9428@gmail.com**
+- 📫 How to reach me **enigmaticsoul216@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
